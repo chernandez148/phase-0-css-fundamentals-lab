@@ -3,3 +3,38 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  padding: 0 10px;
+  background-color: rgb(244, 244, 244);
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+}
+
+figcaption {
+  text-align: center;
+}
+
+#featured-property p {
+  margin: 0 auto;
+  width: 800px;
+  text-align: center;
+}
+
+#details div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: rgb(247, 247, 247);
+}
